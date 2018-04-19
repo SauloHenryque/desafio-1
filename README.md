@@ -40,4 +40,4 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista final com
       2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductordev;
       3. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
-      5. Envie um e-mail ao RH Conductor notificando a finalização do desafio para validação.
+      5. Responda ao e-mail enviado do desafio, adicionando cópia para geeks-aquisicaodetalentos@Conductor.onmicrosoft.com notificando a finalização do desafio para validação.
